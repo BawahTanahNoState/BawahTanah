@@ -1,0 +1,55 @@
+*{
+    background-color: rgb(21, 22, 21);
+    font-family: 'Courier New', Courier, monospace
+}
+
+html, body {
+  max-width: 100%;
+  overflow-x: hidden;
+  margin: 0;
+}
+
+
+.header {
+    
+}
+
+.header img {
+    width: 100%;
+    object-fit: fill;
+}
+
+.isi{
+    margin: 5%;
+    color: white;
+}
+
+.konten{
+    margin-right: 20%;
+}
+
+.isi .konten h1{
+    margin-right: 20%;
+    background-color: white;
+    color: black;
+}
+.deskripsi{
+    margin-right: 20%;
+}
+
+.Judul img{
+    width: 200px;
+}
+
+.footer{
+    margin-left: 5%;
+
+}
+
+.footer p
+{
+    color:  white;
+}
+.navbar a{
+    color: white;
+}
